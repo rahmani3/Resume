@@ -11,6 +11,7 @@
 * C
 * C++
 * Ruby
+* HTML
 
 #### **Tools and Technologies**
 * MySQL
@@ -18,6 +19,7 @@
 #### **Frameworks and Libraries**
 * JQuery
 * Bootstrap
+* CSS
 
 ### **Education**
 
