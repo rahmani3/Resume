@@ -1,8 +1,7 @@
 ## Ishmam Rahman
 301-1 Finch Bay | (204)-962-3195 | rahmani3@myumanitoba.ca
 
-### **Skills Summary**
-
+### **Skills Summary**  
 
 #### **Programming Languages**
 * Java
