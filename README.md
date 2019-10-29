@@ -81,8 +81,8 @@ Peer Editing: Alex and Egor
 
 ## FAQs
 
-Can I use GitHub without downloading GitHub desktop?
+Can I use GitHub without downloading GitHub desktop?  
 Yes, you can use GitHub without downloading GitHub desktop, you can use terminal as a git client.
 
-I changed my theme, why can't I see it on GitHub pages?
+I changed my theme, why can't I see it on GitHub pages?  
 When a change is made GitHub takes a bit of time to deploy it, you can try refreshing the page.
