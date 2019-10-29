@@ -28,4 +28,6 @@ Lastly, now that you have set up both GitHub desktop and Atom on your computer, 
 |Step 3| Make your Resume in the index.md file|
 |Step 4|Save your index.md file|
 |Step 5|Go back to GitHub desktop|
-|||
+|Step 6|Write a comment on why you made the change|
+|Step 7|Select "Commit to master"|
+|Step 8|Select "Push Origin"|
