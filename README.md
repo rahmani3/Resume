@@ -9,7 +9,20 @@ First off, you will need to get a [GitHub](www.github.com) account. All you need
 
 Now, before doing anything else on GitHub, we move on to making a resume. Your resume will need to be written using markdown. And to write this resume, you will need an editor. The editor I used is [Atom](https://atom.io). The main reason I used atom is because it is compatible with GitHub. Also, it has a pretty need live preview feature which allows you to see how your code is coming along, which I have found to be very helpful.
 
-Lastly, now that you have set up both GitHub desktop and Atom on your computer, all that is left for you to do is [learn Markdown](https://www.markdowntutorial.com). Leaning it does not take much time. You will be able to make your resume in a couple of hours.
+Lastly, now that you have set up both GitHub desktop and Atom on your computer, all that is left for you to do is [learn Markdown](https://www.markdowntutorial.com). Leaning it does not take much time. You will be able to make your resume in a couple of hours. Now that you have covered all the prerequisites, you are ready to host your resume on GitHub.
 
 ---
- 
+
+ ## Creating a Repository
+
+ Once you sign in on GitHub desktop, you will have the option of creating a repository. When you click that it will prompt you to enter a name for your repository. it can be anything you want it to be. In my case, I have named it "Resume" for obvious reasons.
+
+ ---
+
+## Making your Resume
+
+|   | Are           | Cool  |
+|   |:-------------:| -----:|
+|   | right-aligned | $1600 |
+| c | centered      |   $12 |
+| z | ar            |    $1 |
