@@ -19,7 +19,7 @@ Lastly, now that you have set up both GitHub desktop and Atom on your computer, 
 
  ---
 
-## Making your Resume
+## Making your Resume and Posting it
 
 |Step  |Actions|
 |:-----:|:------------:|
@@ -31,3 +31,20 @@ Lastly, now that you have set up both GitHub desktop and Atom on your computer, 
 |Step 6|Write a comment on why you made the change|
 |Step 7|Select "Commit to master"|
 |Step 8|Select "Push Origin"|
+
+---
+
+## Editing your Resume with Jekyll
+
+After you have uploaded your resume on your GitHub repository, you can either choose to leave it as it is and see the published version on GitHub pages or you can do what I did and choose one of the predefined Jekyll already on GitHub and use it for your resume. To do this, all you have to do is:
+*  Go to "Settings" on your GitHub repository  
+* Browse down to "GitHub Pages"
+* Select "Change theme"
+* Choose any of the predefined Jekyll as you like (I used slate)
+* Refresh the page
+
+---
+
+## Hosting your Resume on GitHub pages
+
+Lastly to view your resume on GitHub pages, you simply go to "Setting" once again and scroll down to "GitHub Pages" again and click on the link that is given and there you have it, your resume published on GitHub Pages.
