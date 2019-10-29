@@ -65,6 +65,24 @@ If you do not think Atom is an editor you are comfortable working with, there is
 
 Other than the Makdown tutorial provided above there are plenty of other sites you can choose to learn Markdown from. For example, this really helpful [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) on GitHub.
 
-There are plenty of othere resources available on the internet, you just have to [google it!](https://www.google.com)
+There are plenty of other resources available on the internet, you just have to [google it!](https://www.google.com)
 
 ---
+
+## Authors and Acknowledgements
+
+Author: **Ishmam Rahman** : [GitHub](https://github.com/rahmani3)
+
+Slate theme Author: pages-themes
+
+Peer Editing: Alex and Egor
+
+---
+
+## FAQs
+
+Can I use GitHub without downloading GitHub desktop?
+Yes, you can use GitHub without downloading GitHub desktop, you can use terminal as a git client.
+
+I changed my theme, why can't I see it on GitHub pages?
+When a change is made GitHub takes a bit of time to deploy it, you can try refreshing the page.
