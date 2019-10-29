@@ -23,7 +23,7 @@ Lastly, now that you have set up both GitHub desktop and Atom on your computer, 
 
 |Step  |Actions|
 |:-----:|:------------:|
-|Step 1| Select "Open in Atom" on on GitHub desktop |
+|Step 1| Select "Open in Atom" on GitHub desktop |
 |Step 2|Open index on atom and save it as index.md|
 |Step 3| Make your Resume in the index.md file|
 |Step 4|Save your index.md file|
@@ -31,6 +31,8 @@ Lastly, now that you have set up both GitHub desktop and Atom on your computer, 
 |Step 6|Write a comment on why you made the change|
 |Step 7|Select "Commit to master"|
 |Step 8|Select "Push Origin"|
+
+<img src="Readmecommit.png" width="250"/> <img src="push.png" width="250"/>
 
 ---
 
@@ -43,8 +45,13 @@ After you have uploaded your resume on your GitHub repository, you can either ch
 * Choose any of the predefined Jekyll as you like (I used slate)
 * Refresh the page
 
+<img src="mainpage.png" width="250"/> <img src="settings.png" width="250"/><img src="gitpages.png" width="250"/><img src="choosetheme.png" width="250"/>
+
 ---
 
 ## Hosting your Resume on GitHub pages
 
 Lastly to view your resume on GitHub pages, you simply go to "Setting" once again and scroll down to "GitHub Pages" again and click on the link that is given and there you have it, your resume published on GitHub Pages.
+
+<img src="published.png" width="250"/>
+---
