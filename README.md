@@ -54,4 +54,17 @@ After you have uploaded your resume on your GitHub repository, you can either ch
 Lastly to view your resume on GitHub pages, you simply go to "Setting" once again and scroll down to "GitHub Pages" again and click on the link that is given and there you have it, your resume published on GitHub Pages.
 
 <img src="published.png" width="250"/>
+
+This is basically how I hosted my resume on GitHub pages. There may be better ways to do it.
+
+---
+
+## Other Resources
+
+If you do not think Atom is an editor you are comfortable working with, there is also [Visual Studio Code](https://code.visualstudio.com/download) that you can try out.
+
+Other than the Makdown tutorial provided above there are plenty of other sites you can choose to learn Markdown from. For example, this really helpful [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) on GitHub.
+
+There are plenty of othere resources available on the internet, you just have to [google it!](https://www.google.com)
+
 ---
