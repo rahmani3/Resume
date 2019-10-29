@@ -21,8 +21,11 @@ Lastly, now that you have set up both GitHub desktop and Atom on your computer, 
 
 ## Making your Resume
 
-|   | Are           | Cool  |
-|   |:-------------:| -----:|
-|   | right-aligned | $1600 |
-| c | centered      |   $12 |
-| z | ar            |    $1 |
+|Step  |Actions|
+|:-----:|:------------:|
+|Step 1| Select "Open in Atom" on on GitHub desktop |
+|Step 2|Open index on atom and save it as index.md|
+|Step 3| Make your Resume in the index.md file|
+|Step 4|Save your index.md file|
+|Step 5|Go back to GitHub desktop|
+|||
